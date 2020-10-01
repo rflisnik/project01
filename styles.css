@@ -1,9 +1,6 @@
 h1 {
     color: navy;
-    font-size: 18px
-    font-weight: normal;
-    text-transform: lowercase;
+    font-size: 18px text-transform: lowercase;
     text-align: justify;
-    letter-spacing:} 
-
-
+    letter-spacing: 5px;
+}
