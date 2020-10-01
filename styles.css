@@ -1,6 +1,9 @@
 body {
+    font-family: 'Dosis', sans-serif;
     color: navy;
-    font-size: 18px; text-transform: lowercase;
+    font-size: 11px;
+    text-transform: lowercase;
     text-align: justify;
-    letter-spacing: 5px
+    letter-spacing: 5px;
+    background-color: hsl(19, 100%, 67%)
 }
